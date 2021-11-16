@@ -2,6 +2,7 @@
   "name": "node-test",
   "version": "1.0.0",
   "description": "",
+  "type": "commonjs",
   "main": "index.ts",
   "scripts": {
     "start": "ts-node src/index.ts",
